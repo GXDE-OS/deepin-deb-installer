@@ -1,0 +1,59 @@
+deepin-deb-installer (6.0.10) unstable; urgency=medium
+
+  * fix: 修复libqapt包名带后缀无法准确区分版本的问题(Bug: 195557)(Influence: 虚包安装依赖)
+
+ -- Deepin Packages Builder <packages@deepin.org>  Wed, 12 Apr 2023 12:27:31 +0800
+
+deepin-deb-installer (6.0.9) unstable; urgency=medium
+
+  * fix: 移除安装依赖 deepin-elf-verify(Bug: 195557)(Influence: 安装依赖)
+
+ -- Deepin Packages Builder <packages@deepin.org>  Wed, 12 Apr 2023 09:52:04 +0800
+
+deepin-deb-installer (6.0.8) unstable; urgency=medium
+
+  * fix: 移除对 deepin-elf-sign-tool 的强依赖(Influence: 安装依赖)
+
+ -- Deepin Packages Builder <packages@deepin.org>  Fri, 07 Apr 2023 15:59:52 +0800
+
+deepin-deb-installer (6.0.5) unstable; urgency=medium
+
+  * Update version
+
+ -- wangzhengyang <wangzhengyang@uniontech.com>  Thu, 30 Mar 2023 17:19:43 +0800
+deepin-deb-installer (6.0.4) unstable; urgency=medium
+
+  * Update version
+
+ -- wangzhengyang <wangzhengyang@uniontech.com>  Fri, 10 Mar 2023 10:59:41 +0800
+deepin-deb-installer (6.0.3) unstable; urgency=medium
+
+  * Add check for wine depend install
+
+ -- wangzhengyang <wangzhengyang@uniontech.com>  Tue, 21 Feb 2023 13:38:35 +0800
+deepin-deb-installer (6.0.1) unstable; urgency=medium
+
+  * Merge version to 6.0.1
+  * Add DDIM routine
+
+ -- wangzhengyang <wangzhengyang@uniontech.com>  Thu, 14 Feb 2023 15:07:35 +0800
+deepin-deb-installer (5.8.27) unstable; urgency=medium
+
+  * New version 5.8.27
+
+ -- huangzhenglin <huangzhenglin@uniontech.com>  Mon, 9 Jan 2023 16:35:35 +0800
+deepin-deb-installer (5.8.26) unstable; urgency=medium
+
+  * New version 5.8.26
+
+ -- huangzhenglin <huangzhenglin@uniontech.com>  Wed, 4 Jan 2023 16:35:35 +0800
+deepin-deb-installer (5.8.25) unstable; urgency=medium
+
+  * New version 5.8.25
+
+ -- huangzhenglin <huangzhenglin@uniontech.com>  Tue, 3 Jan 2023 16:51:35 +0800
+deepin-deb-installer (5.3.9) unstable; urgency=medium
+
+  * Initial Release.
+
+ -- Deepin Packages Builder <packages@deepin.com>  Wed, 11 Oct 2017 17:38:35 +0800
